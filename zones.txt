@@ -1,0 +1,4 @@
+conntest.nintendowifi.net  A     192.168.2.3
+nas.nintendowifi.net       A     192.168.2.3
+home.disney.go.com         A     192.168.2.3
+    
